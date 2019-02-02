@@ -4,13 +4,15 @@ XII-RPL 1
 2019
 
 # Reference
-Youtube
-Stackoverflow
-Github
-Vuex
+* Youtube
+* Stackoverflow
+* Vuex
+* Github
 
 # Quiz
-Isilah Kuis ini dengan tepat, mohon maaf apabila tersinggung
+```
+Isilah Kuis ini dengan tepat, mohon maaf apabila tersinggung :D
+```
 
 ## Project setup
 ```
